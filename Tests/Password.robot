@@ -1,0 +1,12 @@
+*** Variables ***
+${password}              CHARAN@1234
+${FARMER_NAME}           SHASHANK
+${DOB}                   11/08/2005
+${AADHAR_NUMBER}         7896541236984
+${MOBILE_NUMBER}         9840421758
+${ALTERNATIVE_NUMBER}    2356412578
+${MOTHER_NAME}           SANGEETHA
+${FATHER_NAME}           SANJEY
+${BANK_AC_NO}            123456789369852147
+${IFSC_CODE}             ICIC0000002
+
